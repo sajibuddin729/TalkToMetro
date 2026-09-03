@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374311262430",
+    "project_id": "talk2metro-4f3e0",
+    "storage_bucket": "talk2metro-4f3e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374311262430:android:f6bf417bb07e28e3444a4f",
+        "android_client_info": {
+          "package_name": "com.example.mrts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "YOUR_FIREBASE_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
